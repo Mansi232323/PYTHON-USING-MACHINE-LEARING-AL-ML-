@@ -1,5 +1,6 @@
 # PYTHON-USING-MACHINE-LEARING-AL-ML-
 **MINIOR PROJECT**
+
 **stellar classification**
 
 Stellar Classification using Machine Learning is a project focused on the application of advanced data processing and machine learning techniques to classify stars based on their various attributes. This project delves into the fascinating realm of astronomy and data science, aiming to automate the process of stellar classification, a task traditionally done by astronomers manually.
