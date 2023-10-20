@@ -36,7 +36,7 @@ The data used in the Stellar Classification using Machine Learning project is so
 
 Dataset Description The dataset comprises detailed spectral data, temperature readings, luminosity values, and other relevant parameters of stars. Each data point is meticulously curated and includes unique identifiers for different star types, enabling precise classification. The dataset's richness empowers machine learning models to discern intricate patterns, ensuring accurate and reliable star categorization.
 
-Source and Availability The dataset is publicly available on Kaggle and can be accessed through the following link: Stellar Classification Dataset on Kaggle. Researchers, astronomers, and data enthusiasts can utilize this dataset for their experiments, fostering collaborative exploration and analysis in the field of astronomy and machine learning.
+Source and Availability The dataset is publicly available on Kaggle and can be accessed through the following link: https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17 Stellar Classification Dataset on Kaggle. Researchers, astronomers, and data enthusiasts can utilize this dataset for their experiments, fostering collaborative exploration and analysis in the field of astronomy and machine learning.
 
 **Technologies Used**
 
